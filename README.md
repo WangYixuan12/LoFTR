@@ -20,7 +20,7 @@ Discussions about the paper are welcomed in the [discussion panel](https://githu
 - :white_check_mark: Integrated to [Huggingface Spaces](https://huggingface.co/spaces) with [Gradio](https://github.com/gradio-app/gradio). See [Gradio Web Demo](https://huggingface.co/spaces/akhaliq/Kornia-LoFTR)
 ## Colab demo
 Want to run LoFTR with custom image pairs without configuring your own GPU environment? Try the Colab demo:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BgNIOjFHauFoNB95LGesHBIjioX74USW?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UbQonoYkYqqKSfqK4aQOuKOlbx-IoMi7?usp=sharing)
 
 ## Installation
 ```shell
