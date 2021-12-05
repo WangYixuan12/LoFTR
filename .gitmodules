@@ -1,3 +1,6 @@
 [submodule "third_party/SuperGluePretrainedNetwork"]
 	path = third_party/SuperGluePretrainedNetwork
 	url = git@github.com:magicleap/SuperGluePretrainedNetwork.git
+[submodule "icp"]
+	path = icp
+	url = git@github.com:WangYixuan12/icp.git
